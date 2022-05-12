@@ -1,0 +1,4 @@
+jdbc:mysql://localhost:3305/salvadora
+root
+2301
+salvadora
